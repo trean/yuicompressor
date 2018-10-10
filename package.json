@@ -20,7 +20,7 @@
     ],
     "bugs": { "url" : "http://yuilibrary.com/projects/yuicompressor/newticket" },
     "dependencies": {
-        "kexec": "~0.2.0"
+        "kexec": "~3.0.0"
     },
     "devDependencies": {
         "yuitest": "*"
